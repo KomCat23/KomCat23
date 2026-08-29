@@ -19,10 +19,10 @@
 
 ## Мои проекты(В закрепе те проекты, над которыми я активно работаю) 🖥
 
-Многофункциональный калькулятор на С
+-[Многофункциональный калькулятор на С](https://github.com/KomCat23/Multifunctional-calculator-on-C)
 
-Майнкрафт на Python
+-[Майнкрафт на Python](https://github.com/KomCat23/Minecraft-on-Python)
 
-Змейка на Java
+-[Змейка на Java](https://github.com/KomCat23/-LostMedia-Snake-on-Java)
 
 А также кучу вирусняков на плюсах))) //код которых я естественно не выкладываю🤫
