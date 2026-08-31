@@ -10,14 +10,17 @@
 
 ## Мои навыки 🛠️
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) - Как базу
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) - Для работы с памятью и с ОС
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) - В основном ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) - Для создания декстопных программ и для модов на майнкрафт
 
 ---
 
-## Мои проекты(В закрепе те проекты, над которыми я активно работаю) 🖥
+## Мои проекты(В закрепе те проекты, над которыми я активно работаю или над которыми много работал) 🖥
 
 -[Многофункциональный калькулятор на С](https://github.com/KomCat23/Multifunctional-calculator-on-C)
 
