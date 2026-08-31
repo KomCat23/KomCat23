@@ -36,6 +36,6 @@
 
 ## Планы на будущее ✨
 
-Изучить Spring для Java
+Изучить ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) для Java
 
 Допилить свой калькулятор на С
