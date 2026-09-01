@@ -10,7 +10,7 @@
 
 ## Мои навыки 🛠️
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) - Как база(я не жертва Хани монтаны)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) - Как база(я не жертва Хани монтаны честно)
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) - Для работы с памятью и с ОС
 
