@@ -4,33 +4,37 @@
 
 ## Обо мне 📝
 
-Школьник-программист. Пишу редко(C 1 сентября вообще перестал писать какой либо код из-за учёбы), на нескольких разных языках.
+Школьник-программист. Пишу всякое, что мне нужно без раздумий(если вайбкожу, то только для обучения).
 
 ---
 
-## Мои навыки 🛠️
+## Мои навыки(или то, на чём я хоть раз писал) 🛠️
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) - Как база(я не жертва Хани монтаны честно)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) - Для работы с памятью и с ОС
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) - В основном ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white), но есть и опыт в ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) - Для создания декстопных программ и для модов на майнкрафт
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
+
+![HTML5](https://shields.io)
+
+![CSS3](https://shields.io)
+
+![JavaScript](https://shields.io)
 
 ---
 
 ## Мои проекты 🖥
 
-### (В закрепе те проекты, над которыми я активно работаю или над которыми много работал)
+### (Чем я горжусь)
 
 -[Многофункциональный калькулятор на С](https://github.com/KomCat23/Multifunctional-calculator-on-C)
 
 -[Майнкрафт на Python](https://github.com/KomCat23/Minecraft-on-Python)
-
--[Змейка на Java](https://github.com/KomCat23/-LostMedia-Snake-on-Java)
-
-А также кучу вирусняков на плюсах))) //код которых я естественно не выкладываю🤫
 
 ---
 
@@ -39,3 +43,7 @@
 Изучить ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) для ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 Допилить свой калькулятор на ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+
+Допилить свои будущие проекты...
+
+Закончить школу
