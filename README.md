@@ -35,7 +35,7 @@
 
 ## Планы на будущее ✨
 
-Изучить ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) для ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+Изучить ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) для ![Java](https://img.shields.io/badge/-Java-E76F00?style=flat&logo=openjdk&logoColor=white)
 
 Допилить свой калькулятор на ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 
