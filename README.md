@@ -31,6 +31,8 @@
 
 -[Майнкрафт на Python](https://github.com/KomCat23/Minecraft-on-Python)
 
+-[Расширение для бразуера Firefox](https://github.com/KomCat23/SimpleLinkManager)
+
 ---
 
 ## Планы на будущее ✨
